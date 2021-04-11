@@ -1,6 +1,6 @@
 version: "3.8"
 services:
-  backend:
+  mock_backend:
     build: './'
     container_name: 'easy-http-container'
     env_file: 
@@ -10,4 +10,5 @@ services:
       - '3030:3030'
     volumes: 
         - ./app:/easy-http/app
+        - ./env:/easy-http/env
     command: "npm start"
