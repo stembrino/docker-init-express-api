@@ -1,4 +1,4 @@
-# easy-http
+# easy-http :robot: :coffee:
 ### Development Target
 - Developed to avoid some annoying issues with VSC plugins or when it's necessary use a server to test some application's request.
   - No need install NodeJs
