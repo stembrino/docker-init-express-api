@@ -1,7 +1,11 @@
 <h2>easy-http</h2>
 <div>
   <h3>Development Target</h3>
-  <p>Developed to avoid some annoying issues with VSC plugins or when it's necessary use a server to test some application's request.</p>
+  <ul>
+  <li>Developed to avoid some annoying issues with VSC plugins or when it's necessary use a server to test some application's request.</li>
+  <li>No need intall node install NodeJs</li>
+  <li>Without overhelmed the PC with more "node_modules"</li>
+  </ul>
 </div>
 <div>
   <h3>Requirements</h3>
