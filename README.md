@@ -1,7 +1,8 @@
 # easy-http
 ### Development Target
 - Developed to avoid some annoying issues with VSC plugins or when it's necessary use a server to test some application's request.
-  - No need intall node install NodeJs
+  - No need install NodeJs
+  - Avoid conflict with NodeJs versions
   - Without overhelmed the PC with more `node_modules`
 ### Requirements
 - **Docker**: 
