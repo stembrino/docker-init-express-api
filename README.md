@@ -17,4 +17,5 @@
 <div>
   <h3>How to Use</h3>
   <p>Run the command docker-compose up</p>
+  <p>Access: http://localhost:3030</p>
 </div>
