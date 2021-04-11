@@ -7,15 +7,15 @@
   <h3>Requirements</h3>
   <ul>
     <li>Docker: 
-      <a href="https://docs.docker.com/docker-for-windows/install/">link Wndows Docker</a>   
-      <a href="https://docs.docker.com/engine/install/ubuntu/">link Linux Docker</a>
+      <a target="_blank" href="https://docs.docker.com/docker-for-windows/install/">link Wndows Docker</a>   
+      <a target="_blank" href="https://docs.docker.com/engine/install/ubuntu/">link Linux Docker</a>
      <p>Obs: Windows comes with docker-compose.</p>
     </li>
-  <li>docker-compose: <a href="https://docs.docker.com/compose/install/">link docker-compose to Linux</a></li>
+  <li>docker-compose: <a target="_blank" href="https://docs.docker.com/compose/install/">link docker-compose to Linux</a></li>
   </ul>
 </div>
 <div>
   <h3>How to Use</h3>
-  <p>Run the command docker-compose up</p>
+  <p>Run the command: <b>docker-compose up</b></p>
   <p>Access: http://localhost:3030</p>
 </div>
