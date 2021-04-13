@@ -5,8 +5,9 @@ const mockone = express.Router();
 const pathApi = process.env.API;
 const pathApiAndMeetup = pathApi + process.env.MEETUP;
 
-mockone.get("/", function (req, res) {
-  res.redirect(pathApiAndMeetup);
+mockone.post("/", function (req, res) {
+  console.log("body", req.body);
+  res.sendStatus(200);
 });
 
 mockone.get(pathApiAndMeetup, function (req, res) {
